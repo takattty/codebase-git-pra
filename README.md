@@ -2,4 +2,4 @@
 
 ## developブランチを作成しました。
 
-### add-featureブランチを作成しました。
+### add-featureブランチを作成しました
